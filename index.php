@@ -10,7 +10,7 @@ while($row = $query->fetcha_assoc() ){
 	echo "<table>
 	<tr>
 		<td>
-		{$row['name]}
+		{$row['name']}
 		</td>
 	</tr>
 
