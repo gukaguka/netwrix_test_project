@@ -1,7 +1,7 @@
 <?php
 	
 	include("config.php");
-	$query = $connect->query("SELECT * FROM loc_country");
+	$query = $connect->query("SELECT * FROM heroku_b282da8a31f51a7loc_country");
 ?>
 
 <?php
