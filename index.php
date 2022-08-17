@@ -1,8 +1,7 @@
 <?php
 	
-	include("config.php")
 
-		test
+		echo "test"
   
 
 
