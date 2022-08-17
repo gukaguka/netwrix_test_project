@@ -14,6 +14,6 @@ while($row = $query->fetcha_assoc() ){
 		</td>
 	</tr>
 
-</table>"
+</table>";
 }
 	?>
